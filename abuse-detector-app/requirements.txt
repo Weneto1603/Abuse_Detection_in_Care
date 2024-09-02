@@ -1,0 +1,11 @@
+streamlit
+joblib
+pandas
+numpy
+nltk
+spacy
+scipy
+seaborn
+matplotlib
+speechrecognition
+streamlit-webrtc
